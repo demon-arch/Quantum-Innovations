@@ -1,0 +1,93 @@
+
+
+
+:root {
+    --deep-blue: #0D1B2A;
+    --electric-purple: #6A0DAD;
+    --neon-green: #39FF14;
+    --light-gray: #F4F4F4;
+    --white: #FFFFFF;
+    --dark-gray: #333333;
+    --space-black: #0D0D0D;
+}
+
+
+body {
+    background-color: var(--space-black);
+    color: white;  
+}
+
+
+nav.navbar {
+    background-color: var(--deep-blue);
+}
+.navbar-brand {
+    color: var(--white) !important;
+}
+.navbar-text {
+    color: var(--neon-green);
+}
+.navbar-nav .nav-link {
+    color: var(--white) !important;
+}
+.navbar-nav .nav-link:hover {
+    color: var(--electric-purple) !important;
+}
+
+
+.banner {
+    background: linear-gradient(to bottom, var(--electric-purple), var(--deep-blue));
+    color: var(--white);
+}
+
+
+.featured-products .card img {
+    border: 2px solid var(--deep-blue);
+    width: 100%;
+    height: 500px;
+    object-fit: cover;
+    
+}
+.featured-products .card  {
+    border: 2px solid var(--deep-blue);
+    
+    
+}
+
+.card-body {
+    background-color: var(--white);
+  
+}
+.card-title {
+    color: var(--deep-blue);
+}
+.card-text {
+    color: var(--dark-gray);
+}
+.btn-warning {
+    background-color: var(--neon-green) !important;
+    border-color: var(--neon-green);
+}
+.btn-warning:hover {
+    background-color: var(--electric-purple) !important;
+    border-color: var(--electric-purple);
+}
+
+
+footer {
+    background-color: var(--deep-blue);
+}
+footer p {
+    color: var(--white);
+}
+
+
+.form-control {
+    border: 2px solid var(--deep-blue);
+    background-color: var(--light-gray);
+}
+#language {
+    background-color: var(--deep-blue);
+    color: var(--white);
+    border: 2px solid var(--neon-green);
+}

@@ -1,0 +1,249 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Time Machine",
+      "description": "A theoretical device that would allow for time travel, enabling people to move backward or forward in time. While it's currently a concept explored in science fiction, time travel is based on the idea of manipulating space-time, a subject studied in physics.",
+      "category": "Concept",
+      "tags": ["Science Fiction", "Physics", "Space-time", "Time Travel"],
+      "price": "$99.99",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ9qR9Cm60re9OCf6wVWygD_tYp8NxkvGKVe8yBj5tnM7kcAu6fVXKNDZgI5FezDaMhvg&usqp=CAU",
+      "manufacturer": "Quantum Labs",
+      "release_date": "2025-07-01",
+      "availability": "Pre-order",
+      "rating": 4.5,
+      "reviews": [
+        {
+          "user": "Jane Doe",
+          "rating": 5,
+          "comment": "Incredible concept! Can't wait to see this come to life!"
+        },
+        {
+          "user": "John Smith",
+          "rating": 4,
+          "comment": "Amazing idea, but still too far out to be a reality."
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "The Robot",
+      "description": "Robots are machines designed to perform tasks autonomously or semi-autonomously. They range from industrial robots that help assemble products to humanoid robots designed for companionship, healthcare, or performing complex tasks.",
+      "category": "Technology",
+      "tags": ["Robotics", "AI", "Automation", "Companion"],
+      "price": "$79.99",
+      "image_url": "https://static.vecteezy.com/system/resources/thumbnails/024/496/593/small_2x/chatgpt-a-thinking-robot-a-humanoid-robot-faces-close-up-futuristic-modern-tech-chatbot-assistance-auto-conversation-future-digital-technology-ai-artificial-intelligence-concept-generate-ai-free-photo.jpg",
+      "manufacturer": "RoboTech Industries",
+      "release_date": "2024-10-15",
+      "availability": "In Stock",
+      "rating": 4.8,
+      "reviews": [
+        {
+          "user": "Alice Johnson",
+          "rating": 5,
+          "comment": "This robot can really help with daily tasks. Impressive technology!"
+        },
+        {
+          "user": "Michael Lee",
+          "rating": 4,
+          "comment": "Great functionality but the price could be better."
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Artificial Heart",
+      "description": "A mechanical pump designed to replace a damaged or failing human heart. Artificial hearts are used as a temporary solution while a patient waits for a heart transplant or as a long-term solution in some cases. They represent a major advancement in medical technology.",
+      "category": "Medical Technology",
+      "tags": ["Healthcare", "Cardiology", "Medical Device", "Artificial Organs"],
+      "price": "$129.99",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiRbyukauC917Ey76BgvzXz_ikXcrngVuLPw&s",
+      "manufacturer": "HeartTech Solutions",
+      "release_date": "2025-01-15",
+      "availability": "Available for Consultation",
+      "rating": 4.9,
+      "reviews": [
+        {
+          "user": "Dr. Sarah White",
+          "rating": 5,
+          "comment": "This has the potential to save countless lives."
+        },
+        {
+          "user": "Tom Brown",
+          "rating": 4,
+          "comment": "Great innovation but still needs improvement in longevity."
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Teleportation Device",
+      "description": "Inspired by science fiction, teleportation involves moving matter from one location to another without traversing the physical space in between. While the technology has not been developed for macroscopic objects, quantum teleportation has been achieved with particles like photons.",
+      "category": "Concept",
+      "tags": ["Teleportation", "Quantum Physics", "Science Fiction", "Physics"],
+      "price": "$149.99",
+      "image_url": "https://atlas-content1-cdn.pixelsquid.com/assets_v2/250/2500455943888705157/jpeg-600/G03.jpg",
+      "manufacturer": "Teleport Tech",
+      "release_date": "TBD",
+      "availability": "Concept Stage",
+      "rating": 4.0,
+      "reviews": [
+        {
+          "user": "Chris Adams",
+          "rating": 4,
+          "comment": "I think this is amazing, but we're still a long way from seeing it in real life."
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Flying Car",
+      "description": "A vehicle capable of both driving on the road and flying in the air. Many companies are developing prototypes of flying cars, and they could revolutionize urban transport in the future by helping reduce traffic congestion and offering faster travel options.",
+      "category": "Transportation",
+      "tags": ["Flying Vehicle", "Urban Transport", "Futuristic", "Aerospace"],
+      "price": "$200,000.00",
+      "image_url": "https://files.idyllic.app/files/static/2178764?width=750&optimizer=imageg",
+      "manufacturer": "SkyDrive Innovations",
+      "release_date": "2028-05-21",
+      "availability": "Pre-order",
+      "rating": 4.2,
+      "reviews": [
+        {
+          "user": "Nancy Williams",
+          "rating": 5,
+          "comment": "A dream come true! I want one today!"
+        },
+        {
+          "user": "David Clark",
+          "rating": 3,
+          "comment": "The idea is brilliant, but the price is still far too high."
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Nanobots",
+      "description": "Tiny robots or machines at the nanometer scale, potentially used for tasks like repairing cells, curing diseases, or cleaning pollutants. Nanotechnology is an emerging field with significant potential in medicine, engineering, and environmental sciences.",
+      "category": "Nanotechnology",
+      "tags": ["Nanobots", "Medical Technology", "Environmental Science", "Micro Robotics"],
+      "price": "$999.99",
+      "image_url": "https://arinmed.com/wp-content/uploads/2017/07/Depositphotos_87261836_original.jpg",
+      "manufacturer": "NanoMed Innovations",
+      "release_date": "2027-11-01",
+      "availability": "Prototype",
+      "rating": 4.7,
+      "reviews": [
+        {
+          "user": "Katherine Green",
+          "rating": 5,
+          "comment": "Nanobots could revolutionize medicine as we know it!"
+        },
+        {
+          "user": "Ben Johnson",
+          "rating": 4,
+          "comment": "Great potential, but it's still in the early stages."
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "name": "Cloaking Device",
+      "description": "A technology that makes objects invisible or undetectable to radar or the naked eye. While full invisibility is not yet possible, researchers have created materials that can bend light or radar waves around objects, creating the illusion of invisibility.",
+      "category": "Concept",
+      "tags": ["Invisibility", "Radar", "Science Fiction", "Advanced Materials"],
+      "price": "$199.99",
+      "image_url": "https://img.freepik.com/premium-photo/futuristic-holographic-stealth-field-cloaking-device-with-complex-cyber-security-technology_1335075-2408.jpg",
+      "manufacturer": "Invisible Tech Corp",
+      "release_date": "TBD",
+      "availability": "Prototype",
+      "rating": 4.4,
+      "reviews": [
+        {
+          "user": "Sam Turner",
+          "rating": 5,
+          "comment": "This could change everything in terms of privacy and security!"
+        },
+        {
+          "user": "Emma Davis",
+          "rating": 3,
+          "comment": "Very cool concept, but we’re still waiting for real applications."
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "name": "Self-Healing Materials",
+      "description": "Materials that have the ability to automatically repair themselves when damaged. This is especially useful in industries like construction, aerospace, and electronics, where damage to materials can lead to costly repairs or failures.",
+      "category": "Materials Science",
+      "tags": ["Self-healing", "Materials Science", "Construction", "Aerospace", "Innovation"],
+      "price": "$50.00 per unit",
+      "image_url": "https://thumbs.dreamstime.com/b/mesmerizing-futuristic-ai-driven-self-healing-materials-technology-displaying-glowing-cybernetic-nanobot-repair-pathways-363986454.jpg",
+      "manufacturer": "EcoTech Materials",
+      "release_date": "2026-02-01",
+      "availability": "Pre-order",
+      "rating": 4.6,
+      "reviews": [
+        {
+          "user": "Michael Harris",
+          "rating": 5,
+          "comment": "This could revolutionize the way we think about construction and maintenance!"
+        },
+        {
+          "user": "Jessica Moore",
+          "rating": 4,
+          "comment": "Great potential, but I’m waiting to see it in larger-scale applications."
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "name": "Exoskeletons",
+      "description": "Wearable devices designed to enhance the strength, endurance, or mobility of the human body. These are especially beneficial for people with mobility impairments or for workers who need extra support for physically demanding tasks.",
+      "category": "Medical Technology",
+      "tags": ["Exoskeleton", "Mobility", "Assistive Devices", "Health"],
+      "price": "$50,000.00",
+      "image_url": "https://i.pinimg.com/736x/77/19/5e/77195e0e2a952bf6a0ae9163743ca588.jpg",
+      "manufacturer": "ExoTech Industries",
+      "release_date": "2025-09-25",
+      "availability": "In Stock",
+      "rating": 4.8,
+      "reviews": [
+        {
+          "user": "Olivia Stone",
+          "rating": 5,
+          "comment": "Incredible technology. It’s changing lives for people with disabilities!"
+        },
+        {
+          "user": "Daniel Ford",
+          "rating": 4,
+          "comment": "This has amazing potential but is currently quite expensive."
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "name": "Genetic Editing Tools (CRISPR)",
+      "description": "A technology that allows scientists to alter an organism's DNA with great precision. CRISPR has the potential to treat genetic disorders, enhance crops, and even bring about advancements in personalized medicine.",
+      "category": "Biotechnology",
+      "tags": ["Genetic Engineering", "CRISPR", "Medicine", "Bio-tech"],
+      "price": "$1,000,000.00",
+      "image_url": "https://images.theconversation.com/files/598864/original/file-20240605-18-4f9bcr.jpg?ixlib=rb-4.1.0&rect=0%2C0%2C5351%2C4798&q=20&auto=format&w=320&fit=clip&dpr=2&usm=12&cs=strip",
+      "manufacturer": "GeneTech",
+      "release_date": "2027-03-10",
+      "availability": "Under Research",
+      "rating": 4.9,
+      "reviews": [
+        {
+          "user": "Dr. Alice Blue",
+          "rating": 5,
+          "comment": "The potential of CRISPR to change medicine is unimaginable."
+        },
+        {
+          "user": "Peter Collins",
+          "rating": 4,
+          "comment": "Powerful technology but needs rigorous ethical review."
+        }
+      ]
+    }
+  ]
+}
