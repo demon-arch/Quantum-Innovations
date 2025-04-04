@@ -1,4 +1,4 @@
-// Get the product ID from the URL query string
+
 const urlParams = new URLSearchParams(window.location.search);
 const productId = urlParams.get('id');
 
@@ -13,7 +13,7 @@ fetch('/data/products.json')
             const productDetails = document.getElementById('product-details');
             productDetails.innerHTML = `
                 <div class="product-details-wrapper">
-                    <div class="col-md-5">
+                    <div class="col-md-6">
                         <img src="${product.image_url}" alt="${product.name}" class="img-fluid product-image">
                     </div>
                     <div class="col-md-6 product-info">
@@ -64,6 +64,3 @@ fetch('/data/products.json')
         }
     })
     .catch(error => console.error('Error loading product details:', error));
-
-
-  
